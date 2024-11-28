@@ -1,0 +1,11 @@
+{
+  "name": "mermaid-logos-loader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kurono-soshiki/mermaid-logos-loader.git",
+  "author": "aaaa777 <aaaa777@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/runtime": "^7.26.0"
+  }
+}
